@@ -2,8 +2,10 @@
 layout: default
 lang: fr
 title: "Charte de conduite"
-nav_order: 3
+nav_order: 4
 ---
+
+## Charte de conduite
 
 1. Les Alliés ne valorisent ni les personnes ni le travail. Les Alliés valorisent la paix.
 2. Vous pouvez quitter les Alliés en leur disant au revoir ou en cessant d'interagir avec eux.

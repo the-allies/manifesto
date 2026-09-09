@@ -1,14 +1,20 @@
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 
-title: "The Allies' Manifesto"
+title: "The Allies’ Manifesto"
 description: "A refuge against toxic behaviors and organizations."
+baseurl: "/manifesto"
+url: "https://the-allies.github.io"
 
 logo: "/assets/images/logo.png"
 
+aux_links:
+  "The Allies on GitHub":
+    - "https://github.com/the-allies"
+
 plugins:
   - jekyll-redirect-from
-
-aux_links:
-  "🇬🇧": "/en/"
-  "🇫🇷": "/fr/"
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-sitemap

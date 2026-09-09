@@ -2,14 +2,16 @@
 layout: default
 lang: fr
 title: "Nous rejoindre"
-nav_order: 2
+nav_order: 3
 ---
+
+## Nous rejoindre
 
 Vous êtes considéré Allié si et seulement si un membre autorisé de l'organisation GitHub [The Allies](https://github.com/the-allies) vous y ajoute. N'importe qui peut demander à être ajouté par n'importe quel moyen pour participer à n'importe quel projet professionnel.
 
 L'entrée est conditionnée par un test non-standardisé auquel vous ne pouvez pas vous préparer.
 
-Tout candidat reconnaît avoir préalablement lu la [charte de conduite](./code-of-conduct) des Alliés et y adhérer sans réserve.
+Tout candidat reconnaît avoir préalablement lu la [charte de conduite](./charte-de-conduite) des Alliés et y adhérer sans réserve.
 
 > Bon chance.
 > 

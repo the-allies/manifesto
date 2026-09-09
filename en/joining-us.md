@@ -2,8 +2,10 @@
 layout: default
 lang: en
 title: "Joining us"
-nav_order: 2
+nav_order: 3
 ---
+
+## Joining us
 
 You are considered an Ally if and only if an authorized member of the GitHub organization [The Allies](https://github.com/the-allies) adds you to it. Anyone can request to be added by any means to participate in any professional project.
 
