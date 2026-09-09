@@ -3,7 +3,7 @@ layout: default
 lang: fr
 title: "🇫🇷 Le Manifeste des Alliés"
 description: "Un refuge contre les comportements et les organisations toxiques."
-has_children: true
+permalink: "/fr/"
 nav_order: 1
 ---
 

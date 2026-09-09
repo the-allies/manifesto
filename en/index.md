@@ -3,6 +3,7 @@ layout: default
 lang: en
 title: "🇬🇧 The Allies’ Manifesto"
 description: "A refuge against toxic behaviors and organizations."
+permalink: "/en/"
 nav_order: 1
 ---
 

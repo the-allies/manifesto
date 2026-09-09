@@ -2,7 +2,8 @@
 layout: default
 lang: fr
 title: "Charte de conduite"
-nav_order: 4
+parent: "🇫🇷 Le Manifeste des Alliés"
+nav_order: 3
 ---
 
 ## Charte de conduite

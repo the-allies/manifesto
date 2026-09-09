@@ -2,7 +2,8 @@
 layout: default
 lang: fr
 title: "Nous rejoindre"
-nav_order: 3
+parent: "🇫🇷 Le Manifeste des Alliés"
+nav_order: 2
 ---
 
 ## Nous rejoindre

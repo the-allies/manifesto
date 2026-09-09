@@ -2,7 +2,8 @@
 layout: default
 lang: en
 title: "Motive for the crime"
-nav_order: 2
+parent: "🇬🇧 The Allies’ Manifesto"
+nav_order: 1
 ---
 
 ## Motive for the crime

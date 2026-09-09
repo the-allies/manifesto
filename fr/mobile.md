@@ -2,7 +2,8 @@
 layout: default
 lang: fr
 title: "Le mobile du crime"
-nav_order: 2
+parent: "🇫🇷 Le Manifeste des Alliés"
+nav_order: 1
 ---
 
 ## Le mobile du crime

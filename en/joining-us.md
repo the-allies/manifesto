@@ -2,7 +2,8 @@
 layout: default
 lang: en
 title: "Joining us"
-nav_order: 3
+parent: "🇬🇧 The Allies’ Manifesto"
+nav_order: 2
 ---
 
 ## Joining us
