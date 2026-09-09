@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /index.html
+redirect_to:
+  - /en/
 ---
-
-🇬🇧 [English](./en/) \| 🇫🇷 [Français](./fr/)
