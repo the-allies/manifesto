@@ -1,0 +1,23 @@
+---
+permalink: /404.html
+nav_exclude: true
+search_exclude: true
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    const path = window.location.pathname;
+    let lang = navigator.language || navigator.userLanguage;
+    if (path.startsWith('/fr/') || lang.startsWith('fr')) {
+      lang = "fr";
+    }
+    window.location.replace(`/${lang}/404.html`);
+  </script>
+</head>
+<body>
+  <p>Redirecting...</p>
+</body>
+</html>
