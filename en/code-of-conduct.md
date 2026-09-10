@@ -10,7 +10,7 @@ nav_order: 3
 
 1. The Allies value neither people nor work. The Allies value peace.
 2. You can leave the Allies by saying goodbye or by ceasing to interact with them.
-3. If you stop interacting, you are likely to be banned after 90 days of inactivity.
+3. If you stop interacting with the Allies, you are likely to be banned after 90 days without interaction.
 4. Any departure or ban from the Allies is irreversible. Like life, the Allies give only one chance, and may ban you for reasons you might consider unfair.
 5. The Allies will ban you if they discover that you have taken part in a conversation concerning the conditions of a ban or the banning of a specific person. Examples:
    * "This community has overly strict ban conditions." ❌ Ban

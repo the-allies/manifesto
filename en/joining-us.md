@@ -12,7 +12,7 @@ You are considered an Ally if and only if an authorized member of the GitHub org
 
 Admission is subject to a non-standardized test for which you cannot prepare.
 
-Any candidate acknowledges having previously read the Allies' [code of conduct](./code-of-conduct) and unconditionally adheres to it.
+Any candidate acknowledges having previously read the [Code of conduct](./code-of-conduct) and unconditionally adheres to it.
 
 > Good luck.
 > 
