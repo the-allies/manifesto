@@ -10,7 +10,7 @@ nav_order: 1
 
 Les expériences professionnelles des Alliés les ont convaincus qu'une organisation est toxique si et seulement si sa hiérarchie est fondée sur l'attention sociale. Dans ces organisations, les comportements toxiques apparaissent comme des solutions pour obtenir davantage d'attention, car générer du stress à partir de vous-même plutôt qu'à partir de la situation augmente les chances que les gens vous prêtent de l'attention à vous plutôt qu'à la situation ou aux autres.
 
-Le schéma des comportements toxiques est le suivant :
+Le schéma de comportements toxiques est le suivant :
 1. Vous générez un vrai problème à partir de vous-même.
 2. Les autres vous donnent de l'attention.
 3. Vous présentez la solution au problème, solution que vous êtes le seul à connaître puisque vous êtes l'origine du problème.
