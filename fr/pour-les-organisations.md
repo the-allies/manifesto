@@ -28,24 +28,24 @@ Tant que vous respectez les conditions d’**attribution** :
 
 Ainsi, dans vos règlements internes, chartes RH ou communications publiques, la mention suivante suffit :
 
-> La charte de conduite de l’Organisation est une adaptation du [Manifeste des Alliés](https://the-allies.github.io/manifesto/fr/). Nous déclarons adhérer à ses Motivations et aux règles 1 et 2 de sa Charte de conduite.
+> Le code de conduite de l’Organisation est une adaptation du [Manifeste des Alliés](https://the-allies.github.io/manifesto/fr/). Nous déclarons adhérer à ses Motivations et aux Règles 1 et 2 de son Code de conduite.
 
 ### Adaptation
 
 🔴 Les Alliés ne soutiennent pas votre organisation si elle ne respecte pas l’ensemble des points suivants :
-* Toute personne qui intègre l’Organisation adhère à son adaptation de la [Charte de conduite](charte-de-conduite) du Manifeste. Les autres dispositions de la section « [Nous rejoindre](nous-rejoindre) » sont optionnelles.
-* L’Organisation applique la règle 1 de la [Charte de conduite](charte-de-conduite). Les Alliés recommandent de conjuguer l’Organisation au pluriel pour rappeler qu’elle est un ensemble de personnes, et non une matière inerte ni une structure dictée par une poignée de ses membres.
+* Toute personne qui intègre l’Organisation adhère à son adaptation du [Code de conduite](./code-de-conduite) du Manifeste. Les autres dispositions de la section « [Nous rejoindre](nous-rejoindre) » sont optionnelles.
+* L’Organisation applique la Règle 1 du [Code de conduite](./code-de-conduite). Les Alliés recommandent de conjuguer l’Organisation au pluriel pour rappeler qu’elle est un ensemble de personnes, et non une matière inerte ni une structure dictée par une poignée de ses membres.
 > L’Organisation ne valorisent ni les personnes ni le travail. L’Organisation valorisent la paix.
-* L’Organisation applique la règle 2.
+* L’Organisation applique la Règle 2.
 > Vous pouvez quitter l’Organisation en leur disant au revoir ou en cessant d’interagir avec eux.
 
 🟠 Ensuite :
-* La règle 3 est optionnelle. Elle concerne l’absence de communication, même quand cette absence ne contrevient pas à la paix.
-> Si vous cessez d’interagir avec l’Organisation, vous êtes susceptibles d’être bannis après _N_ jours sans interaction.
-* Les règles 4 à 8 sont optionnelles. Elles dépendent de vos enjeux de confidentialité.
+* La Règle 3 est optionnelle. Elle concerne l’absence de communication, même quand cette absence ne contrevient pas à la paix.
+> Si vous cessez d’interagir avec l’Organisation, vous êtes susceptibles d’être bannis après N jours sans interaction.
+* Les Règles 4 à 8 sont optionnelles. Elles dépendent de vos enjeux de confidentialité.
   * Le bannissement peut être réversible ou non.
   * La discussion sur les conditions de bannissement et les discussions à caractère cancanier sur le bannissement peuvent être sanctionnées d’un ban ou non.
   * La divulgation de données identifiantes sur les membres de l’Organisation peut être sanctionnée d’un ban ou non.
 
 🟢 Enfin :
-* La règle 9 est optionnelle. Notez qu’elle écrit « _allié_ » (nom commun, italique) et non « Allié » (nom propre, droit).
+* La Règle 9 est optionnelle. Notez qu’elle écrit « _allié_ » (nom commun, italique) et non « Allié » (nom propre, droit).

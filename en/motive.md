@@ -1,12 +1,12 @@
 ---
 layout: default
 lang: en
-title: "Motive for the crime"
+title: "Motive"
 parent: "🇬🇧 The Allies’ Manifesto"
 nav_order: 1
 ---
 
-## Motive for the crime
+## Motive
 
 The professional experiences of the Allies have convinced them that an organization is toxic if and only if its hierarchy is founded on social attention. In these organizations, toxic behaviors emerge as solutions to gain more attention, because generating stress from yourself rather than from the situation increases the chances that people will pay attention to you rather than to the situation or to others.
 

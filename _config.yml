@@ -21,7 +21,7 @@ plugins:
 # Footer configuration
 back_to_top: true
 back_to_top_text: "Back to top"
-footer_content: 'Copyright &copy; 2026 The Allies. Distributed by a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC-BY 4.0)</a>. <a href="https://www.netlify.com/">This site is powered by Netlify.</a>'
+footer_content: 'Copyright &copy; 2026 The Allies. Distributed by a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC-BY 4.0)</a> license. <a href="https://www.netlify.com/">This site is powered by Netlify.</a>'
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p" # ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 gh_edit_link: true

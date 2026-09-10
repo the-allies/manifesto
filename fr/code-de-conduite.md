@@ -1,12 +1,12 @@
 ---
 layout: default
 lang: fr
-title: "Charte de conduite"
+title: "Code de conduite"
 parent: "🇫🇷 Le Manifeste des Alliés"
 nav_order: 3
 ---
 
-## Charte de conduite
+## Code de conduite
 
 1. Les Alliés ne valorisent ni les personnes ni le travail. Les Alliés valorisent la paix.
 2. Vous pouvez quitter les Alliés en leur disant au revoir ou en cessant d'interagir avec eux.
@@ -26,4 +26,4 @@ nav_order: 3
    * « Un des alliés aime beaucoup les profiteroles. » ❌ Ban
 7. Les Alliés ont d'autres conditions de bannissement cachées.
 8. Les Alliés peuvent vous bannir avant même que vous ne les rejoignez. Pré-ban vaut ban.
-9. Les règles 3 à 8 peuvent être ignorées si vous êtes déjà un _allié_.
+9. Les Règles 3 à 8 peuvent être ignorées si vous êtes déjà un _allié_.

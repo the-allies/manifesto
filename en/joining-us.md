@@ -1,18 +1,18 @@
 ---
 layout: default
 lang: en
-title: "Joining us"
+title: "Joining Us"
 parent: "🇬🇧 The Allies’ Manifesto"
 nav_order: 2
 ---
 
-## Joining us
+## Joining Us
 
 You are considered an Ally if and only if an authorized member of the GitHub organization [The Allies](https://github.com/the-allies) adds you to it. Anyone can request to be added by any means to participate in any professional project.
 
 Admission is subject to a non-standardized test for which you cannot prepare.
 
-Any candidate acknowledges having previously read the [Code of conduct](./code-of-conduct) and unconditionally adheres to it.
+Any candidate acknowledges having previously read the [Code of Conduct](./code-of-conduct) and unconditionally adheres to it.
 
 > Good luck.
 > 

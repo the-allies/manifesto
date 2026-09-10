@@ -12,7 +12,7 @@ Vous êtes considéré Allié si et seulement si un membre autorisé de l'organi
 
 L'entrée est conditionnée par un test non-standardisé auquel vous ne pouvez pas vous préparer.
 
-Tout candidat reconnaît avoir préalablement lu la [Charte de conduite](./charte-de-conduite) des Alliés et y adhérer sans réserve.
+Tout candidat reconnaît avoir préalablement lu le [Code de conduite](./code-de-conduite) des Alliés et y adhérer sans réserve.
 
 > Bon chance.
 > 

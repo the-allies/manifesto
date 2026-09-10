@@ -7,6 +7,6 @@ permalink: "/en/"
 nav_order: 1
 ---
 
-# The Allies' Manifesto
+# The Allies’ Manifesto
 
 The Allies are a professional community born as a refuge against toxic behaviors and organizations.
