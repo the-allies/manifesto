@@ -41,6 +41,6 @@ Here are recurring thoughts that Allies experienced when subjected to toxic beha
 > 
 > I cannot work with people who operate like that.
 
-> The grass _may be_ greener on the other side.
+> The grass _may_ be greener on the other side.
 
-> The grass _must be_ greener on the other side.
+> The grass _must_ be greener on the other side.
