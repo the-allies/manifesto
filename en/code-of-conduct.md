@@ -2,7 +2,7 @@
 layout: default
 lang: en
 title: "Code of Conduct"
-parent: "🇬🇧 The Allies’ Manifesto"
+parent: "🇬🇧 The Allies Manifesto"
 nav_order: 3
 ---
 

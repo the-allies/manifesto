@@ -1,7 +1,7 @@
 remote_theme: "pmarsceill/just-the-docs"
 color_scheme: "dark"
 
-title: "The Allies’ Manifesto"
+title: "The Allies Manifesto"
 description: "A refuge against toxic behaviors and organizations."
 baseurl: "/manifesto"
 url: "https://the-allies.github.io"

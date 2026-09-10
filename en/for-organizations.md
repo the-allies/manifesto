@@ -2,18 +2,18 @@
 layout: default
 lang: fr
 title: "For Organizations"
-description: "A guide for organizations that want to implement the Allies’ Manifesto."
-parent: "🇬🇧 The Allies’ Manifesto"
+description: "A guide for organizations that want to implement the Allies Manifesto."
+parent: "🇬🇧 The Allies Manifesto"
 nav_order: 4
 ---
 
 # For Organizations
 
-Adopting the Allies’ Manifesto is designed to be immediate and free of unnecessary legal friction for both private and public organizations, whether for-profit or non-profit.
+Adopting the Allies Manifesto is designed to be immediate and free of unnecessary legal friction for both private and public organizations, whether for-profit or non-profit.
 
 ## License
 
-The Allies’ Manifesto is distributed under the [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+The Allies Manifesto is distributed under the [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
 You are free to:
 
@@ -28,7 +28,7 @@ As long as you comply with the attribution requirements:
 
 Accordingly, in your internal policies, HR charters, or public communications, the following notice is sufficient:
 
-> The Organization's code of conduct is an adaptation of the [Allies’ Manifesto](https://the-allies.github.io/manifesto/). We declare our commitment to its Motivations and to Rules 1 and 2 of its Code of Conduct.
+> The Organization's code of conduct is an adaptation of the [Allies Manifesto](https://the-allies.github.io/manifesto/). We declare our commitment to its Motivations and to Rules 1 and 2 of its Code of Conduct.
 
 ## Adaptation
 

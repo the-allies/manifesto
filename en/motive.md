@@ -2,7 +2,7 @@
 layout: default
 lang: en
 title: "Motive"
-parent: "🇬🇧 The Allies’ Manifesto"
+parent: "🇬🇧 The Allies Manifesto"
 nav_order: 1
 ---
 
