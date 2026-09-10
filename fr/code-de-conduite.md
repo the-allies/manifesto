@@ -6,7 +6,7 @@ parent: "🇫🇷 Le Manifeste des Alliés"
 nav_order: 3
 ---
 
-## Code de conduite
+# Code de conduite
 
 1. Les Alliés ne valorisent ni les personnes ni le travail. Les Alliés valorisent la paix.
 2. Vous pouvez quitter les Alliés en leur disant au revoir ou en cessant d'interagir avec eux.

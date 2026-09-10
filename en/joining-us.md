@@ -6,7 +6,7 @@ parent: "🇬🇧 The Allies’ Manifesto"
 nav_order: 2
 ---
 
-## Joining Us
+# Joining Us
 
 You are considered an Ally if and only if an authorized member of the GitHub organization [The Allies](https://github.com/the-allies) adds you to it. Anyone can request to be added by any means to participate in any professional project.
 

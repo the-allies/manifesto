@@ -6,7 +6,7 @@ parent: "🇬🇧 The Allies’ Manifesto"
 nav_order: 1
 ---
 
-## Motive
+# Motive
 
 The professional experiences of the Allies have convinced them that an organization is toxic if and only if its hierarchy is founded on social attention. In these organizations, toxic behaviors emerge as solutions to gain more attention, because generating stress from yourself rather than from the situation increases the chances that people will pay attention to you rather than to the situation or to others.
 
@@ -26,3 +26,5 @@ The result is systemic and chronic energy dissipation.
 > In the [France Télécom suicide case](https://en.wikipedia.org/wiki/France_T%C3%A9l%C3%A9com_trials), the Cour de Cassation convicted France Télécom executives for "institutional psychological harassment" ([ruling of 21 January 2025](https://www.courdecassation.fr/decision/678f6a5a29d9a5b0535ebb19)).
 
 Thus, in an attempt to break and prevent toxic patterns, the Allies set forth their terms.
+
+If you are in a toxic situation, our section on [signs of toxicity](./signs-of-toxicity) will likely resonate with your experience.

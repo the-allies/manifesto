@@ -7,30 +7,30 @@ parent: "🇫🇷 Le Manifeste des Alliés"
 nav_order: 4
 ---
 
-## Pour les organisations
+# Pour les organisations
 
 L'adoption du Manifeste des Alliés a été pensée pour être immédiate et sans contrainte juridique superflue pour les organisations privées ou publiques à but lucratif ou non-lucratif.
 
-### Licence
+## Licence
 
 Le Manifeste des Alliés est distribué sous licence [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.fr). 
 
 Vous êtes autorisés à :
 
-* **Adapter** le Manifeste pour toute utilisation, y compris commerciale.
-* **Partager** le Manifeste ou votre adaptation par tous les moyens et sous tous les formats pour toute utilisation, y compris commerciale.
+* Adapter le Manifeste pour toute utilisation, y compris commerciale.
+* Partager le Manifeste ou votre adaptation par tous les moyens et sous tous les formats pour toute utilisation, y compris commerciale.
 
-Tant que vous respectez les conditions d’**attribution** :
+Tant que vous respectez les conditions d’attribution :
 
-* Vous **créditez** le Manifeste et ses auteurs.
-* Vous **indiquez** si vous avez adapté le Manifeste.
-* Vous **ne prétendez pas** être soutenu par les Alliés, ni que les Alliés soutiennent votre adaptation du Manifeste. Voir la section sur l’[adaptation](#adaptation) pour plus de détails.
+* Vous créditez le Manifeste et ses auteurs.
+* Vous indiquez si vous avez adapté le Manifeste.
+* Vous ne prétendez pas être soutenu par les Alliés, ni que les Alliés soutiennent votre adaptation du Manifeste. Voir la section sur l’[adaptation](#adaptation) pour plus de détails.
 
 Ainsi, dans vos règlements internes, chartes RH ou communications publiques, la mention suivante suffit :
 
 > Le code de conduite de l’Organisation est une adaptation du [Manifeste des Alliés](https://the-allies.github.io/manifesto/fr/). Nous déclarons adhérer à ses Motivations et aux Règles 1 et 2 de son Code de conduite.
 
-### Adaptation
+## Adaptation
 
 🔴 Les Alliés ne soutiennent pas votre organisation si elle ne respecte pas l’ensemble des points suivants :
 * Toute personne qui intègre l’Organisation adhère à son adaptation du [Code de conduite](./code-de-conduite) du Manifeste. Les autres dispositions de la section « [Nous rejoindre](nous-rejoindre) » sont optionnelles.
@@ -48,4 +48,4 @@ Ainsi, dans vos règlements internes, chartes RH ou communications publiques, la
   * La divulgation de données identifiantes sur les membres de l’Organisation peut être sanctionnée d’un ban ou non.
 
 🟢 Enfin :
-* La Règle 9 est optionnelle. Notez qu’elle écrit « _allié_ » (nom commun, italique) et non « Allié » (nom propre, droit).
+* La Règle 9 est optionnelle. Notez qu’elle écrit « _allié_ » et non « Allié ».

@@ -6,7 +6,7 @@ parent: "🇬🇧 The Allies’ Manifesto"
 nav_order: 3
 ---
 
-## Code of Conduct
+# Code of Conduct
 
 1. The Allies value neither people nor work. The Allies value peace.
 2. You can leave the Allies by saying goodbye or by ceasing to interact with them.
