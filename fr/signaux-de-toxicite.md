@@ -45,3 +45,7 @@ Voici des pensées récurrentes qu’ont eues les Alliés lorsqu’ils subissaie
 
 > L’herbe est _probablement_ plus verte ailleurs.
  
+## Logiques sociales
+
+* Vous êtes punis quand vous vous portez de l’attention à vous-mêmes.
+

@@ -44,3 +44,8 @@ Here are recurring thoughts that Allies experienced when subjected to toxic beha
 > The grass _may_ be greener on the other side.
 
 > The grass _must_ be greener on the other side.
+
+## Social logics
+
+* You are punished when you pay attention to yourself.
+ 
