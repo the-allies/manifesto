@@ -1,6 +1,6 @@
 ---
 layout: default
-lang: fr
+lang: en
 title: "Blog"
 parent: "🇬🇧 The Allies Manifesto"
 nav_order: 6

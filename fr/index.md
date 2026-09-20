@@ -4,6 +4,7 @@ lang: fr
 title: "🇫🇷 Le Manifeste des Alliés"
 description: "Un refuge contre les comportements et les organisations toxiques."
 permalink: "/fr/"
+nav_order: 2
 ---
 
 # Le Manifeste des Alliés
