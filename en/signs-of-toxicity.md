@@ -54,6 +54,6 @@ Here are recurring thoughts that Allies experienced when subjected to toxic beha
 
 > The grass _must_ be greener on the other side.
 
-## Logiques
+## Logics
 
 * Your supervisors hold you responsible for their decisions, both good and bad.
