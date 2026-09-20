@@ -33,4 +33,4 @@ Si vous êtes dans une situation toxique, notre section sur les [signaux de toxi
 
 ## Solution
 
-Ainsi, pour tenter de briser et de prévenir les schémas toxiques, les Alliés manifestent [leurs conditions](/fr/nous-rejoindre).
+Pour tenter de briser et de prévenir les schémas toxiques, les Alliés manifestent [leurs conditions](/fr/nous-rejoindre).

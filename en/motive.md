@@ -33,4 +33,4 @@ If you are in a toxic situation, our [Signs of Toxicity](/en/signs-of-toxicity) 
 
 ## Solution
 
-Thus, in an attempt to break and prevent toxic patterns, the Allies set forth [their terms](/en/joining-us).
+In an attempt to break and prevent toxic patterns, the Allies set forth [their terms](/en/joining-us).
