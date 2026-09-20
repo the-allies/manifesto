@@ -22,7 +22,7 @@ You are free to:
 
 As long as you comply with the attribution requirements:
 
-* You credit the Manifesto and its authors.
+* You credit the Manifesto and its authors (the Allies).
 * You indicate if you adapted the Manifesto.
 * You do not claim to be endorsed by the Allies, nor that the Allies endorse your adaptation of the Manifesto. See the [adaptation](#adaptation) section for details.
 

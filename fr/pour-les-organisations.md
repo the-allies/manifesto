@@ -22,7 +22,7 @@ Vous êtes autorisés à :
 
 Tant que vous respectez les conditions d’attribution :
 
-* Vous créditez le Manifeste et ses auteurs.
+* Vous créditez le Manifeste et ses auteurs (les Alliés).
 * Vous indiquez si vous avez adapté le Manifeste.
 * Vous ne prétendez pas être soutenu par les Alliés, ni que les Alliés soutiennent votre adaptation du Manifeste. Voir la section sur l’[adaptation](#adaptation) pour plus de détails.
 
