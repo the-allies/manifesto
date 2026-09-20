@@ -29,8 +29,8 @@ The result is systemic and chronic energy dissipation.
 
 > In the [France Télécom suicide case](https://en.wikipedia.org/wiki/France_T%C3%A9l%C3%A9com_trials), the Cour de Cassation convicted France Télécom executives for "institutional psychological harassment" ([ruling of 21 January 2025](https://www.courdecassation.fr/decision/678f6a5a29d9a5b0535ebb19)).
 
-If you are in a toxic situation, our [Signs of Toxicity](./signs-of-toxicity) section will likely resonate with your experience.
+If you are in a toxic situation, our [Signs of Toxicity](/en/signs-of-toxicity) section will likely resonate with your experience.
 
 ## Solution
 
-Thus, in an attempt to break and prevent toxic patterns, the Allies set forth [their terms](./joining-us).
+Thus, in an attempt to break and prevent toxic patterns, the Allies set forth [their terms](/en/joining-us).

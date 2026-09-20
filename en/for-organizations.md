@@ -28,13 +28,13 @@ As long as you comply with the attribution requirements:
 
 Accordingly, in your internal policies, HR charters, or public communications, the following notice is sufficient:
 
-> The Organization's code of conduct is an adaptation of the [Allies Manifesto](https://the-allies.github.io/manifesto/). We declare our commitment to its Motivations and to Rules 1 and 2 of its Code of Conduct.
+> The Organization's code of conduct is an adaptation of the [Allies Manifesto]({{ site.url }}/en/). We declare our commitment to its Motivations and to Rules 1 and 2 of its Code of Conduct.
 
 ## Adaptation
 
 🔴 The Allies do not support your organization if it does not comply with all of the following points:
-* Anyone joining the Organization agrees to its adaptation of the Manifesto’s [Code of Conduct](./code-of-conduct). All other provisions in the “[Join Us](join-us)” section are optional.
-* The Organization applies Rule 1 of the [Code of Conduct](./code-of-conduct). The Allies recommend treating the Organization as plural to remember that it is a collective of individuals, not inert matter or a structure dictated by a handful of its members.
+* Anyone joining the Organization agrees to its adaptation of the Manifesto’s [Code of Conduct](/en/code-of-conduct). All other provisions in the “[Join Us](join-us)” section are optional.
+* The Organization applies Rule 1 of the [Code of Conduct](/en/code-of-conduct). The Allies recommend treating the Organization as plural to remember that it is a collective of individuals, not inert matter or a structure dictated by a handful of its members.
 > The Organization value neither people nor work. The Organization value peace.
 * The Organization applies Rule 2.
 > You may leave the Organization by saying goodbye or by ceasing all interaction with them.

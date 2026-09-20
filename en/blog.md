@@ -39,4 +39,4 @@ If you stopped scrambling and simply watched them while they threatened you, you
 
 Here is my advice: the next time a superior, a peer, or a subordinate at your company makes you feel insecure, do not answer. Instead, stare at the exit door until you forget why you are even here.
 
-The Allies is a professional community that values neither people nor work. The Allies values peace. — Rule 1 of the [Code of Conduct](/en/code-of-conduct)
+The Allies is a professional community that values neither people nor work. The Allies values peace (Rule 1 of the [Code of Conduct](/en/code-of-conduct)).

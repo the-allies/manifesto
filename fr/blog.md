@@ -39,4 +39,4 @@ Si vous cessiez de vous agiter, et que vous vous contentiez de les observer pend
 
 Je vous donne un conseil : la prochaine fois qu'un supérieur, un égal ou un inférieur hiérarchique de votre entreprise vous fait vous sentir en insécurité, ne répondez pas. Plutôt, regardez la porte de sortie jusqu'à oublier pourquoi vous êtes ici.
 
-Les Alliés sont une communauté professionnelle qui ne valorise ni les gens ni le travail. Les Alliés valorisent la paix. — Règle 1 du [Code de Conduite](/fr/code-de-conduite)
+Les Alliés sont une communauté professionnelle qui ne valorise ni les gens ni le travail. Les Alliés valorisent la paix (Règle 1 du [Code de conduite](/fr/code-de-conduite)).

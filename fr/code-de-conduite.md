@@ -8,6 +8,8 @@ nav_order: 3
 
 # Code de conduite
 
+_Temps de lecture : 2 min_
+
 1. Les Alliés ne valorisent ni les personnes ni le travail. Les Alliés valorisent la paix.
 2. Vous pouvez quitter les Alliés en leur disant au revoir ou en cessant d'interagir avec eux.
 3. Si vous cessez d'interagir avec les Alliés, vous êtes susceptibles d'être bannis après 90 jours sans interaction.

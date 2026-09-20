@@ -8,6 +8,8 @@ nav_order: 3
 
 # Code of Conduct
 
+_Reading time: 2 min_
+
 1. The Allies value neither people nor work. The Allies value peace.
 2. You can leave the Allies by saying goodbye or by ceasing to interact with them.
 3. If you stop interacting with the Allies, you are likely to be banned after 90 days without interaction.

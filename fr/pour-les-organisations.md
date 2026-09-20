@@ -28,13 +28,13 @@ Tant que vous respectez les conditions d’attribution :
 
 Ainsi, dans vos règlements internes, chartes RH ou communications publiques, la mention suivante suffit :
 
-> Le code de conduite de l’Organisation est une adaptation du [Manifeste des Alliés](https://the-allies.github.io/manifesto/fr/). Nous déclarons adhérer à ses Motivations et aux Règles 1 et 2 de son Code de conduite.
+> Le code de conduite de l’Organisation est une adaptation du [Manifeste des Alliés]({{ site.url }}/fr/). Nous déclarons adhérer à ses Motivations et aux Règles 1 et 2 de son Code de conduite.
 
 ## Adaptation
 
 🔴 Les Alliés ne soutiennent pas votre organisation si elle ne respecte pas l’ensemble des points suivants :
-* Toute personne qui intègre l’Organisation adhère à son adaptation du [Code de conduite](./code-de-conduite) du Manifeste. Les autres dispositions de la section « [Nous rejoindre](nous-rejoindre) » sont optionnelles.
-* L’Organisation applique la Règle 1 du [Code de conduite](./code-de-conduite). Les Alliés recommandent de conjuguer l’Organisation au pluriel pour rappeler qu’elle est un ensemble de personnes, et non une matière inerte ni une structure dictée par une poignée de ses membres.
+* Toute personne qui intègre l’Organisation adhère à son adaptation du [Code de conduite](/fr/code-de-conduite) du Manifeste. Les autres dispositions de la section « [Nous rejoindre](nous-rejoindre) » sont optionnelles.
+* L’Organisation applique la Règle 1 du [Code de conduite](/fr/code-de-conduite). Les Alliés recommandent de conjuguer l’Organisation au pluriel pour rappeler qu’elle est un ensemble de personnes, et non une matière inerte ni une structure dictée par une poignée de ses membres.
 > L’Organisation ne valorisent ni les personnes ni le travail. L’Organisation valorisent la paix.
 * L’Organisation applique la Règle 2.
 > Vous pouvez quitter l’Organisation en leur disant au revoir ou en cessant d’interagir avec eux.
