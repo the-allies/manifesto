@@ -7,8 +7,17 @@ nav_order: 5
 ---
 
 # Signaux de toxicité
+{: .no_toc }
 
 Des comportements ou organisations toxiques se manifestent toujours par des signaux faibles, avec parfois des signaux forts. Cette section en recense plusieurs pour vous aider à identifier si vous êtes vous-mêmes dans une situation toxique.
+
+## Table des matières
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Pensées
 
@@ -44,4 +53,7 @@ Voici des pensées récurrentes qu’ont eues les Alliés lorsqu’ils subissaie
 > L’herbe est _peut-être_ plus verte ailleurs.
 
 > L’herbe est _probablement_ plus verte ailleurs.
- 
+
+## Logiques
+
+* Vos supérieurs hiérarchiques vous tiennent pour responsables de leurs décisions, bonnes comme mauvaises.

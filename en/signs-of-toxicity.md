@@ -7,8 +7,17 @@ nav_order: 5
 ---
 
 # Signs of Toxicity
+{: .no_toc }
 
 Toxic behaviors or organizations always manifest through weak signals, sometimes accompanied by strong ones. This section lists several of them to help you identify whether you are in a toxic situation yourself.
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Thoughts
 
@@ -44,3 +53,7 @@ Here are recurring thoughts that Allies experienced when subjected to toxic beha
 > The grass _may_ be greener on the other side.
 
 > The grass _must_ be greener on the other side.
+
+## Logiques
+
+* Your supervisors hold you responsible for their decisions, both good and bad.
